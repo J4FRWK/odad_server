@@ -1,0 +1,57 @@
+death-messages:
+  by-player:
+    - "%player% was slapped to death by %killer%."
+    - "It's over %player%! I, %killer%, have the high ground!"
+  by-zombie:
+    - "%player% tried to hug a zombie..."
+    - "A zombie got selfish claimed %player% as his own."
+  by-skeleton:
+    - "%player% was shot by a skeleton. LOL"
+    - "A skeleton was like 'nah bruh' and ended %player%'s life using his favorite arrow."
+  by-creeper:
+    - "%player% went KABOOM because of a creeper."
+    - "Boom! Said the creeper to %player%."
+  by-fall:
+    - "%player% hit rock bottom, literally."
+    - "%player% got STUPID and fell."
+    - "Gravity: 1 - %player%: 0"
+    - "%player% did not waterbucket clutch, SHAME!"
+  by-fire:
+    - "%player% got so hot!"
+    - "%player% got lit!"
+    - "So, good news: %player% is not on fire anymore!"
+  by-drowning:
+    - "You're not a fish %player%!"
+    - "%player% thought they were a fish, blub blub!"
+    - "Who would've thought? %player% can't breath under water."
+  by-spider:
+    - "What has 8 legs and kicked %player%'s but?"
+    - "Just because a spider bit Spider-Man, doesn't mean you should try it too, %player%!"
+  by-witch:
+    - "Damn, this Witch went all 'avada kadabra' on %player%'s ass!"
+    - "Witch used potions on %player%. It was super effective!"
+  by-lava:
+    - "Imagine trying to swim in lava! Couldn't be %player%.."
+    - "So how was the lava %player%? Did it feel good on your skin?"
+  by-wolf:
+    - "A Wolf? I'm sorry %player%, but this is on you!"
+    - "A Wolf thought %player% was food."
+  by-dripstone:
+    - "%player% was impaled on a stalagmite."
+    - "%player% fell onto a stalagmite. No pain, no gain!"
+  by-lightning:
+    - "%player% just got shock therapy!"
+  by-iron-golem:
+    - "%player% got refused by the Iron Golem"
+    - "An Iron Golem just CRUSHED %player%!"
+  by-bee:
+    - "A bee, %player%? un-bee-lievable!"
+    - "%player% tried to beat a bee and failed!"
+  by-enderman:
+    - "%player% offended an Enderman and paid with his life."
+    - "%player% looked in an Enderman's eyes a bit too long!"
+  by-piglin:
+    - "A Piglin danced on %player%'s grave."
+    - "%player% pissed off a local Piglin."
+  by-starvation:
+    - "%player% got hungy!"
